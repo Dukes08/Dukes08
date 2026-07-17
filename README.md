@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 I'm Hugo Duque</h1>
 
 # 💫 About Me:
-I am a fourth-year system engineering student at Universidad Metropolitana de Caracas, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a three-year system engineer working on disruptive solutions using AI and Cloud Architecture. Im passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building NodeJs Applications with mongodb
+- 💻 Building AI Agents with [google's-adk](https://adk.dev)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-duque-0a165b302/)
